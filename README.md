@@ -1,7 +1,6 @@
 # COFFEE_BOOK
 
-- [Netlify Live Demo](https://coffee-book-ph1.netlify.app/)
-- [Resources Repository](https://github.com/shakilahmedatik/coffee-book-resources)
+Live Demo https://resilient-pothos-e71cc0.netlify.app/
 
 Packages used in this project:
 
